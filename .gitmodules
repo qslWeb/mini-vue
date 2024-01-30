@@ -1,0 +1,3 @@
+[submodule "vue2-happyfri"]
+	path = vue2-happyfri
+	url = https://github.com/bailicangdu/vue2-happyfri.git
