@@ -1,0 +1,3 @@
+[submodule "Vue2"]
+	path = Vue2
+	url = https://github.com/qslWeb/Vue2.git
